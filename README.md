@@ -10,6 +10,10 @@ The workflow covers the complete process from raw data cleaning in Excel to inte
 
 ---
 
+## 📸 Dashboard Preview
+
+![Creative Studio Booking Performance Dashboard](Screenshot/Screenshot.png)
+
 ## 🎯 Project Objectives
 
 This project was created to answer key business questions such as:
@@ -191,32 +195,11 @@ Interactive Dashboard
 
 ---
 
-## 📁 Project Files
-
-```text
-Creative-Studio-Booking-Performance/
-│
-├── README.md
-├── Creative_Studio_Booking_Performance.xlsx
-├── Creative_Studio_Booking_Performance.pbix
-│
-└── screenshots/
-    └── dashboard.png
-```
-
----
-
 ## 📌 Notes
 
 This project uses a simulated creative studio booking dataset for portfolio and learning purposes.
 
 The dashboard is designed to demonstrate an end-to-end data analytics workflow: from raw data preparation to business-oriented visualization and KPI analysis.
-
----
-
-## 👤 Author
-
-**Nyonya**
 
 Data Analytics Portfolio Project
 
